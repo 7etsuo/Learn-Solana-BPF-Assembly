@@ -23,9 +23,8 @@ This repository serves as a Solana BPF Assembly (sBPF) learning resource. It aim
 
 **Connect with the Community:**
 - **Tetsuo Coin:** [Buy on DexScreener](https://dexscreener.com/solana/2kb3i5ulkhucjuwq3poxhpuggqbwywttk5eg9e5wnlg6)
-- 🐦 **X/Twitter:** [@7etsuo](https://www.x.com/7etsuo)
-- 🌐 **Website:** [tetsuo.ai](https://www.tetsuo.ai)
-- 👾 **Discord:** [Join our Discord](https://discord.gg/tetsuo-ai)
+- 🐦 **X/Twitter:** [@7etsuo](https://www.x.com/tetsuoai)
+- 🌐 **Website:** https://tetsuoproject.com/
 
 ---
 
